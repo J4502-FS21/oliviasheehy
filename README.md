@@ -42,5 +42,3 @@
         <li><a class="css-is-deranged" href="https://twitter.com/imoliviasheehy">Twitter</a></li>
         <li><a class="css-is-deranged" href="https://www.oliviasheehy.com/E">My portfolio</a></li>
     </ul>
-  
-</footer>
