@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Olivia Sheehy's J4502 website</title>
   <meta name="description" content="Olivia Sheehy's J4502 website.">
   <meta name="author" content="Olivia Sheehy">
   <meta name="keywords" content="Olivia Sheehy, J4502."/>
@@ -12,9 +11,7 @@
 <header class='masthead'>
   <h1 class='masthead-heading'>Olivia Sheehy - Journalist & Designer</h1>
 </header>
-<a href=”oksnkb@umsystem.edu?Subject=”><IMG_1269.jpg![image](https://user-images.githubusercontent.com/89551790/131648912-33c91f34-7cee-4343-b22b-7bf8ee3e0a8e.png)>Email Me</a>
-
-  <a href=”oksnkb@umsystem.edu” target=”><IMG_1269.jpg![image](https://user-images.githubusercontent.com/89551790/131648912-33c91f34-7cee-4343-b22b-7bf8ee3e0a8e.png”></a>
+    <a href="oliviaksheehy@gmail.com"><IMG_1269.jpg![image](https://user-images.githubusercontent.com/89551790/131648912-33c91f34-7cee-4343-b22b-7bf8ee3e0a8e.png"/></a>
   
 <section class="contact-section">
     <h2>Contact</h2>
