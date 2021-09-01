@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html lang="en">
 <head>
@@ -12,7 +12,10 @@
 <header class='masthead'>
   <h1 class='masthead-heading'>Olivia Sheehy - Journalist & Designer</h1>
 </header>
-<a href="oksnkb@umsystem.edu"><img src="IMG_1269.jpg" /></a>
+<a href=”oksnkb@umsystem.edu?Subject=”><IMG_1269.jpg![image](https://user-images.githubusercontent.com/89551790/131648912-33c91f34-7cee-4343-b22b-7bf8ee3e0a8e.png)>Email Me</a>
+
+  <a href=”oksnkb@umsystem.edu” target=”><IMG_1269.jpg![image](https://user-images.githubusercontent.com/89551790/131648912-33c91f34-7cee-4343-b22b-7bf8ee3e0a8e.png”></a>
+  
 <section class="contact-section">
     <h2>Contact</h2>
     <p>University email: oksnkb@umsystem.edu</p>
