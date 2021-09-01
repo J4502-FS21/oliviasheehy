@@ -34,7 +34,7 @@
 <section class="about-me">
     <h2>More About Me</h2>
     <p>I was born and raised in Minneapolis, Minnesota. I am currently located in Columbia, Missouri, attending the University of Missouri while pursuing a double degree in Graphic Design and Journalism with an interest area of Magazine Editing.</p>
-    <p>Get with the Times, New Roman.<p/>
+    <p>I'm a big fan of words. Noun/noun/noun. Get with the Times, New Roman.<p/>
     <h2>Connect with me</h2>
     <ul class="social">
         <li><a class="css-is-deranged" href="https://www.linkedin.com/in/oliviasheehy/">LinkedIn</a></li>
