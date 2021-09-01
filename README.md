@@ -11,7 +11,20 @@
 <header class='masthead'>
   <h1 class='masthead-heading'>Olivia Sheehy - Journalist & Designer</h1>
 </header>
-    <ahref="oliviaksheehy@gmail.com" target="_blank"><IMG_1269.jpg![image]("/></a>
+
+  <body>
+  <nav>
+    <ul>
+      <li><a href="https://www.columbiamissourian.com/search/?l=25&sort=relevance&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&nsa=eedition&q=olivia+sheehy" target="_blank">My Columbia Missourian Archive</a></li>
+      <li><a href="https://www.voxmagazine.com/search/?l=25&sort=relevance&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&nsa=eedition&q=olivia+sheehy" target="_blank">My Vox Magazine Archive</a></li>
+      <li><a href="second-page.html">My second page</a></li>
+    </ul>
+  </nav>
+
+  <a href="oksnkb@umsystem.edu">
+    <img src="IMG_1269.jpg" alt="Olivia Sheehy" />
+  </a>
+
   
 <section class="contact-section">
     <h2>Contact</h2>
