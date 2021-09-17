@@ -1,8 +1,5 @@
-<!DOCTYPE html>
 <html>
 <Olivia Sheehy>
-<Olivia Sheehy>My Page</Olivia Sheehy>
-</Olivia Sheehy>
 
 <html lang="en">
 <head>
