@@ -9,6 +9,7 @@
   <meta name="author" content="Olivia Sheehy">
   <meta name="keywords" content="Olivia Sheehy, J4502."/>
 
+<head>
 <header class='masthead'>
   <h1 class='masthead-heading'>Olivia Sheehy - Journalist & Designer</h1>
 </header>
