@@ -1,4 +1,6 @@
-<!DOCTYPE html PUBLIC "https://j4502-fs21.github.io/oliviasheehy/" lang="en">
+<!DOCTYPE html>
+
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
