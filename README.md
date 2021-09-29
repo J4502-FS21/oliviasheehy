@@ -1,4 +1,6 @@
-<!DOCTYPE html PUBLIC "https://j4502-fs21.github.io/oliviasheehy/" lang="en">
+<!DOCTYPE html>
+
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
@@ -7,11 +9,11 @@
   <meta name="author" content="Olivia Sheehy">
   <meta name="keywords" content="Olivia Sheehy, J4502."/>
 
+<head>
 <header class='masthead'>
   <h1 class='masthead-heading'>Olivia Sheehy - Journalist & Designer</h1>
 </header>
 
-  <body>
   <nav>
     <ul>
       <li><a href="https://www.columbiamissourian.com/search/?l=25&sort=relevance&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&nsa=eedition&q=olivia+sheehy" target="_blank">My Columbia Missourian Archive</a></li>
@@ -75,6 +77,7 @@
     <p>Social media handles: @imoliviasheehy</p>
 </section>
 <section class="about-me">
+  </section>
     <h2>More About Me</h2>
     <p>I was born and raised in Minneapolis, Minnesota. I am currently located in Columbia, Missouri, attending the University of Missouri while pursuing a double degree in Graphic Design and Journalism with an interest area of Magazine Editing.</p>
     <p>I'm a big fan of words. Noun/noun/noun. Get with the Times, New Roman.<p/>
@@ -84,4 +87,4 @@
         <li><a class="css-is-deranged" href="https://twitter.com/imoliviasheehy">Twitter</a></li>
         <li><a class="css-is-deranged" href="https://www.oliviasheehy.com/E">My portfolio</a></li>
     </ul>
-<footer/>
+</footer>
